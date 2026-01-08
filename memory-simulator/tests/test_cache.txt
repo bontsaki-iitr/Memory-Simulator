@@ -1,0 +1,12 @@
+init 1024
+config 1 32 8
+config 2 64 16
+malloc 500
+access 0
+access 8
+access 0
+access 100
+access 0
+stats
+dump
+exit

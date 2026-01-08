@@ -1,0 +1,8 @@
+init 32
+malloc 1
+malloc 3
+malloc 24
+dump
+malloc 10
+stats
+exit
